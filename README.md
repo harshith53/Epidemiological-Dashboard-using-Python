@@ -1,9 +1,4 @@
-Always show details
 
-Copy
-# Save the README content into a file
-
-readme_content = """
 # 🦠 Epidemiological Data Dashboard
 
 A web-based interactive dashboard to visualize and simulate the spread of diseases using the SIR model. Built with **Dash**, **Plotly**, **pandas**, and **matplotlib**.
@@ -32,8 +27,6 @@ Epidemiological_Dashboard_Project/
 └── README.md # Project instructions
 
 ```
-
-Copy
 
 ---
 
@@ -104,7 +97,7 @@ Add SEIR model support
 Integrate real-time COVID or dengue datasets
 
 Deploy to Heroku, Render, or Streamlit Cloud
-
+```
 ## 🤝 Contributions
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
 
