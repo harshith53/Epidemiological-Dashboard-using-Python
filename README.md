@@ -87,12 +87,13 @@ http://127.0.0.1:8050/
 
 
 ## 📁 Sample Dataset Format (data/sample_data.csv)
-
+```bash
 date,location,total_cases
 2020-01-01,CountryA,0
 2020-01-02,CountryA,3
+```
 ...
-🚀 Future Ideas
+## 🚀 Future Ideas
 Add SEIR model support
 
 Integrate real-time COVID or dengue datasets
