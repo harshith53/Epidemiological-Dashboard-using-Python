@@ -58,9 +58,11 @@ pip install dash pandas plotly scipy
 
 # 5. Run the app
 python app.py
+```
 
-🍎 macOS / Linux
+## 🍎 macOS / Linux
 
+```bash
 # 1. Open Terminal and navigate to the project folder
 cd ~/Downloads/Epidemiological_Dashboard_Project
 
@@ -79,13 +81,12 @@ python app.py
 After running app.py, open your browser and go to:
 
 
-
-
 http://127.0.0.1:8050/
-📁 Sample Dataset Format (data/sample_data.csv)
-csv
-Always show details
 
+```
+
+
+## 📁 Sample Dataset Format (data/sample_data.csv)
 
 date,location,total_cases
 2020-01-01,CountryA,0
@@ -97,7 +98,7 @@ Add SEIR model support
 Integrate real-time COVID or dengue datasets
 
 Deploy to Heroku, Render, or Streamlit Cloud
-```
+
 ## 🤝 Contributions
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
 
