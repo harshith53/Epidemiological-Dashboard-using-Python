@@ -20,7 +20,7 @@ A web-based interactive dashboard to visualize and simulate the spread of diseas
 ---
 
 ## 🧱 Project Structure
-
+```bash
 Epidemiological_Dashboard_Project/
 ├── app.py # Main Dash application
 ├── data/
@@ -31,8 +31,7 @@ Epidemiological_Dashboard_Project/
 ├── assets/ # Optional: add CSS/JS here for custom styling
 └── README.md # Project instructions
 
-yaml
-Always show details
+```
 
 Copy
 
@@ -66,11 +65,9 @@ pip install dash pandas plotly scipy
 
 # 5. Run the app
 python app.py
-🍎 macOS / Linux
-bash
-Always show details
 
-Copy
+🍎 macOS / Linux
+
 # 1. Open Terminal and navigate to the project folder
 cd ~/Downloads/Epidemiological_Dashboard_Project
 
@@ -88,16 +85,15 @@ python app.py
 🌐 View the Dashboard
 After running app.py, open your browser and go to:
 
-cpp
-Always show details
 
-Copy
+
+
 http://127.0.0.1:8050/
 📁 Sample Dataset Format (data/sample_data.csv)
 csv
 Always show details
 
-Copy
+
 date,location,total_cases
 2020-01-01,CountryA,0
 2020-01-02,CountryA,3
@@ -109,8 +105,7 @@ Integrate real-time COVID or dengue datasets
 
 Deploy to Heroku, Render, or Streamlit Cloud
 
-🤝 Contributions
+## 🤝 Contributions
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
 
-📜 License
-This project is licensed under the MIT License.
+
