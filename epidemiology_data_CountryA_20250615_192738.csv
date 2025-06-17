@@ -1,0 +1,5 @@
+date,location,total_cases
+2020-01-01,CountryA,0
+2020-01-02,CountryA,1
+2020-01-03,CountryA,3
+2020-01-04,CountryA,6
